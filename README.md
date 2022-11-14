@@ -1,10 +1,13 @@
 # EnsoulSharp
 **OneKeyToWin_AIO_Sebby**
 
-        Graves - Lucian
+        Supported champions: Graves - Lucian
 
-Utility
+# Utility:
+**Master**
 
-        * BaseUlt
-        * Auto Smite
-        * Torll Chat
+        * Awareness - Activator
+
+Overwrite
+
+        * NewOrbwalker NewPrediction NewTargetSelector
