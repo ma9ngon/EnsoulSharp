@@ -3,7 +3,6 @@
 
         Supported champions: Graves - Lucian
 
-# Utility:
 **Master**
 
         * Awareness - Activator
